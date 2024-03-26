@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 81be55b6a326d394697f2d5526f506a5
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: anim_l_arm01
+    100002: anim_l_ebow01
+    100004: anim_r_arm01
+    100006: anim_r_ebow01
+    100008: bn_l_clavicle01
+    100010: bn_l_forearm01
+    100012: bn_l_index_a01
+    100014: bn_l_index_b01
+    100016: bn_l_index_c01
+    100018: bn_l_index_d01
+    100020: bn_l_middle_a01
+    100022: bn_l_middle_b01
+    100024: bn_l_middle_c01
+    100026: bn_l_middle_d01
+    100028: bn_l_pinky_a01
+    100030: bn_l_pinky_b01
+    100032: bn_l_pinky_c01
+    100034: bn_l_pinky_d01
+    100036: bn_l_ring_a01
+    100038: bn_l_ring_b01
+    100040: bn_l_ring_c01
+    100042: bn_l_ring_d01
+    100044: bn_l_thumb_a01
+    100046: bn_l_thumb_b01
+    100048: bn_l_thumb_c01
+    100050: bn_l_thumb_d01
+    100052: bn_l_wrist01
+    100054: bn_r_clavicle01
+    100056: bn_r_forearm01
+    100058: bn_r_index_a01
+    100060: bn_r_index_b01
+    100062: bn_r_index_c01
+    100064: bn_r_index_d01
+    100066: bn_r_middle_a01
+    100068: bn_r_middle_b01
+    100070: bn_r_middle_c01
+    100072: bn_r_middle_d01
+    100074: bn_r_pinky_a01
+    100076: bn_r_pinky_b01
+    100078: bn_r_pinky_c01
+    100080: bn_r_pinky_d01
+    100082: bn_r_ring_a01
+    100084: bn_r_ring_b01
+    100086: bn_r_ring_c01
+    100088: bn_r_ring_d01
+    100090: bn_r_thumb_a01
+    100092: bn_r_thumb_b01
+    100094: bn_r_thumb_c01
+    100096: bn_r_thumb_d01
+    100098: bn_r_wrist01
+    100100: Crossbow
+    100102: CrossbowArrow
+    100104: CrossbowBase
+    100106: HandsRoot
+    100108: //RootNode
+    100110: L_Controllers
+    100112: L_IKs
+    100114: L_Skeleton
+    100116: LeftHand
+    100118: LeftHand_jnt
+    100120: Meshes
+    100122: R_Controllers
+    100124: R_IKs
+    100126: R_Skeleton
+    100128: RightHand
+    100130: RightHand_jnt
+    100132: rpIK_l_arm01
+    100134: rpIK_r_arm01
+    400000: anim_l_arm01
+    400002: anim_l_ebow01
+    400004: anim_r_arm01
+    400006: anim_r_ebow01
+    400008: bn_l_clavicle01
+    400010: bn_l_forearm01
+    400012: bn_l_index_a01
+    400014: bn_l_index_b01
+    400016: bn_l_index_c01
+    400018: bn_l_index_d01
+    400020: bn_l_middle_a01
+    400022: bn_l_middle_b01
+    400024: bn_l_middle_c01
+    400026: bn_l_middle_d01
+    400028: bn_l_pinky_a01
+    400030: bn_l_pinky_b01
+    400032: bn_l_pinky_c01
+    400034: bn_l_pinky_d01
+    400036: bn_l_ring_a01
+    400038: bn_l_ring_b01
+    400040: bn_l_ring_c01
+    400042: bn_l_ring_d01
+    400044: bn_l_thumb_a01
+    400046: bn_l_thumb_b01
+    400048: bn_l_thumb_c01
+    400050: bn_l_thumb_d01
+    400052: bn_l_wrist01
+    400054: bn_r_clavicle01
+    400056: bn_r_forearm01
+    400058: bn_r_index_a01
+    400060: bn_r_index_b01
+    400062: bn_r_index_c01
+    400064: bn_r_index_d01
+    400066: bn_r_middle_a01
+    400068: bn_r_middle_b01
+    400070: bn_r_middle_c01
+    400072: bn_r_middle_d01
+    400074: bn_r_pinky_a01
+    400076: bn_r_pinky_b01
+    400078: bn_r_pinky_c01
+    400080: bn_r_pinky_d01
+    400082: bn_r_ring_a01
+    400084: bn_r_ring_b01
+    400086: bn_r_ring_c01
+    400088: bn_r_ring_d01
+    400090: bn_r_thumb_a01
+    400092: bn_r_thumb_b01
+    400094: bn_r_thumb_c01
+    400096: bn_r_thumb_d01
+    400098: bn_r_wrist01
+    400100: Crossbow
+    400102: CrossbowArrow
+    400104: CrossbowBase
+    400106: HandsRoot
+    400108: //RootNode
+    400110: L_Controllers
+    400112: L_IKs
+    400114: L_Skeleton
+    400116: LeftHand
+    400118: LeftHand_jnt
+    400120: Meshes
+    400122: R_Controllers
+    400124: R_IKs
+    400126: R_Skeleton
+    400128: RightHand
+    400130: RightHand_jnt
+    400132: rpIK_l_arm01
+    400134: rpIK_r_arm01
+    2300000: CrossbowArrow
+    2300002: CrossbowBase
+    3300000: CrossbowArrow
+    3300002: CrossbowBase
+    4300000: RightHand
+    4300002: LeftHand
+    4300004: CrossbowArrow
+    4300006: CrossbowBase
+    7400000: CrossbowFire
+    7400002: CrossbowReload
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: LeftHand
+    13700002: RightHand
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CrossbowFire
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: HandsRoot
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Controllers
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Controllers/anim_l_ebow01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_IKs
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_IKs/rpIK_l_arm01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_index_a01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_index_a01/bn_l_index_b01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_index_a01/bn_l_index_b01/bn_l_index_c01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_index_a01/bn_l_index_b01/bn_l_index_c01/bn_l_index_d01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_middle_a01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_middle_a01/bn_l_middle_b01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_middle_a01/bn_l_middle_b01/bn_l_middle_c01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_middle_a01/bn_l_middle_b01/bn_l_middle_c01/bn_l_middle_d01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_pinky_a01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_pinky_a01/bn_l_pinky_b01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_pinky_a01/bn_l_pinky_b01/bn_l_pinky_c01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_pinky_a01/bn_l_pinky_b01/bn_l_pinky_c01/bn_l_pinky_d01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_ring_a01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_ring_a01/bn_l_ring_b01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_ring_a01/bn_l_ring_b01/bn_l_ring_c01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_ring_a01/bn_l_ring_b01/bn_l_ring_c01/bn_l_ring_d01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_thumb_a01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_thumb_a01/bn_l_thumb_b01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_thumb_a01/bn_l_thumb_b01/bn_l_thumb_c01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_thumb_a01/bn_l_thumb_b01/bn_l_thumb_c01/bn_l_thumb_d01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Controllers
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Controllers/anim_r_arm01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Controllers/anim_r_arm01/anim_l_arm01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Controllers/anim_r_arm01/Crossbow
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Controllers/anim_r_arm01/Crossbow/CrossbowArrow
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Controllers/anim_r_arm01/Crossbow/CrossbowBase
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Controllers/anim_r_ebow01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_IKs
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_IKs/rpIK_r_arm01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_index_a01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_index_a01/bn_r_index_b01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_index_a01/bn_r_index_b01/bn_r_index_c01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_index_a01/bn_r_index_b01/bn_r_index_c01/bn_r_index_d01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_middle_a01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_middle_a01/bn_r_middle_b01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_middle_a01/bn_r_middle_b01/bn_r_middle_c01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_middle_a01/bn_r_middle_b01/bn_r_middle_c01/bn_r_middle_d01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_pinky_a01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_pinky_a01/bn_r_pinky_b01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_pinky_a01/bn_r_pinky_b01/bn_r_pinky_c01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_pinky_a01/bn_r_pinky_b01/bn_r_pinky_c01/bn_r_pinky_d01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_ring_a01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_ring_a01/bn_r_ring_b01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_ring_a01/bn_r_ring_b01/bn_r_ring_c01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_ring_a01/bn_r_ring_b01/bn_r_ring_c01/bn_r_ring_d01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_thumb_a01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_thumb_a01/bn_r_thumb_b01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_thumb_a01/bn_r_thumb_b01/bn_r_thumb_c01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_thumb_a01/bn_r_thumb_b01/bn_r_thumb_c01/bn_r_thumb_d01
+        weight: 1
+      - path: Meshes
+        weight: 1
+      - path: Meshes/LeftHand
+        weight: 1
+      - path: Meshes/RightHand
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CrossbowReload
+      takeName: Take 001
+      firstFrame: 12
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: HandsRoot
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Controllers
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Controllers/anim_l_ebow01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_IKs
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_IKs/rpIK_l_arm01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_index_a01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_index_a01/bn_l_index_b01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_index_a01/bn_l_index_b01/bn_l_index_c01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_index_a01/bn_l_index_b01/bn_l_index_c01/bn_l_index_d01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_middle_a01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_middle_a01/bn_l_middle_b01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_middle_a01/bn_l_middle_b01/bn_l_middle_c01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_middle_a01/bn_l_middle_b01/bn_l_middle_c01/bn_l_middle_d01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_pinky_a01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_pinky_a01/bn_l_pinky_b01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_pinky_a01/bn_l_pinky_b01/bn_l_pinky_c01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_pinky_a01/bn_l_pinky_b01/bn_l_pinky_c01/bn_l_pinky_d01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_ring_a01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_ring_a01/bn_l_ring_b01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_ring_a01/bn_l_ring_b01/bn_l_ring_c01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_ring_a01/bn_l_ring_b01/bn_l_ring_c01/bn_l_ring_d01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_thumb_a01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_thumb_a01/bn_l_thumb_b01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_thumb_a01/bn_l_thumb_b01/bn_l_thumb_c01
+        weight: 1
+      - path: HandsRoot/LeftHand_jnt/L_Skeleton/bn_l_clavicle01/bn_l_forearm01/bn_l_wrist01/bn_l_thumb_a01/bn_l_thumb_b01/bn_l_thumb_c01/bn_l_thumb_d01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Controllers
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Controllers/anim_r_arm01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Controllers/anim_r_arm01/anim_l_arm01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Controllers/anim_r_arm01/Crossbow
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Controllers/anim_r_arm01/Crossbow/CrossbowArrow
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Controllers/anim_r_arm01/Crossbow/CrossbowBase
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Controllers/anim_r_ebow01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_IKs
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_IKs/rpIK_r_arm01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_index_a01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_index_a01/bn_r_index_b01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_index_a01/bn_r_index_b01/bn_r_index_c01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_index_a01/bn_r_index_b01/bn_r_index_c01/bn_r_index_d01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_middle_a01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_middle_a01/bn_r_middle_b01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_middle_a01/bn_r_middle_b01/bn_r_middle_c01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_middle_a01/bn_r_middle_b01/bn_r_middle_c01/bn_r_middle_d01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_pinky_a01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_pinky_a01/bn_r_pinky_b01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_pinky_a01/bn_r_pinky_b01/bn_r_pinky_c01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_pinky_a01/bn_r_pinky_b01/bn_r_pinky_c01/bn_r_pinky_d01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_ring_a01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_ring_a01/bn_r_ring_b01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_ring_a01/bn_r_ring_b01/bn_r_ring_c01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_ring_a01/bn_r_ring_b01/bn_r_ring_c01/bn_r_ring_d01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_thumb_a01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_thumb_a01/bn_r_thumb_b01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_thumb_a01/bn_r_thumb_b01/bn_r_thumb_c01
+        weight: 1
+      - path: HandsRoot/RightHand_jnt/R_Skeleton/bn_r_clavicle01/bn_r_forearm01/bn_r_wrist01/bn_r_thumb_a01/bn_r_thumb_b01/bn_r_thumb_c01/bn_r_thumb_d01
+        weight: 1
+      - path: Meshes
+        weight: 1
+      - path: Meshes/LeftHand
+        weight: 1
+      - path: Meshes/RightHand
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .075000003
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
